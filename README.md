@@ -3,4 +3,6 @@ newbie try-out
 
 author: Christoph Helmert
 
-readme.not
+readme.hot
+
+add a change, see upstairs
